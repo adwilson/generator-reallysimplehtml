@@ -9,7 +9,7 @@ Then install the generator:
 npm install -g generator-reallysimplehtml
 ````
 
-`cd` into your chosen directory or create one with `mkdir`. Then run:
+Create a directory with `mkdir` then `cd` into it. Then run:
 ````
 yo reallysimplehtml
 ````
