@@ -14,4 +14,4 @@ Create a directory with `mkdir` then `cd` into it. Then run:
 yo reallysimplehtml
 ````
 
-**And your all done!**
+**And you're all done!**
