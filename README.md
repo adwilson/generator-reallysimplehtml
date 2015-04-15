@@ -1,13 +1,17 @@
-# Really really simple html file setup for use in yo.
+# Really Simple HTML generator
 
-Generates one html file with a bare HTML5 structure a few meta tags filled in.
+Let's you quickly setup a really really basic HTML file with nothing more than a basic structure and a few meta tags.
 
-Install:
-```
+To use you need to have [node](https://nodejs.org/download/) and [yo](http://yeoman.io/learning/index.html) installed.
+
+Then install the generator:
+````
 npm install -g generator-reallysimplehtml
-```
+````
 
-Usage:
-```
+`cd` into your chosen directory or create one with `mkdir`. Then run:
+````
 yo reallysimplehtml
-```
+````
+
+**And your all done!**
