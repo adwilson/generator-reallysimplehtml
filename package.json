@@ -1,0 +1,16 @@
+{
+  "name": "generator-reallysimplehtml",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+	"app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "adwilson",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "~0.19.1"
+  }
+}
