@@ -1,6 +1,6 @@
 # Really Simple HTML generator
 
-Let's you quickly setup a really really basic HTML file with nothing more than a basic structure and a few meta tags.
+Let's you quickly setup a really really basic HTML file with nothing more than a basic structure and a few meta tags, and optionally, jQuery.
 
 To use you need to have [node](https://nodejs.org/download/) and [yo](http://yeoman.io/learning/index.html) installed.
 
